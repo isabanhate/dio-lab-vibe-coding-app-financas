@@ -1,8 +1,8 @@
-# 💰 FinanSmart AI
+# 💰 FinanIsa AI — Seu assistente financeiro inteligente
 
 ## 💡 Sobre o Projeto
 
-O FinanSmart AI é um aplicativo de organização de finanças pessoais que utiliza inteligência artificial para ajudar usuários a controlar seus gastos de forma simples e inteligente.
+O FinanIsa AI é um aplicativo de organização de finanças pessoais que utiliza inteligência artificial para ajudar usuários a controlar seus gastos de forma simples e inteligente.
 
 A proposta é transformar registros financeiros em decisões mais conscientes, oferecendo sugestões personalizadas, alertas e análises automáticas.
 
@@ -40,9 +40,7 @@ O aplicativo deve ter uma interface simples, moderna e intuitiva, focada em usu�
 
 ## 📸 Demonstração
 
-![Exemplo do App](https://via.placeholder.com/300)
-
-*(Aqui você pode adicionar prints do Copilot, Lovable ou simulações do app)*
+![FinanIsa AI](https://github.com/isabanhate/dio-lab-vibe-coding-app-financas/raw/main/Assistente%20financeiro%20inteligente%20em%20a%C3%A7%C3%A3o%20(1).png)
 
 ---
 
@@ -61,7 +59,7 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 - Uso de IA como assistente financeiro pessoal
 - Interação por linguagem natural
-- Foco em experiência do usuário
+- Foco na experiência do usuário
 - Estrutura pensada para evolução futura
 
 ---
