@@ -1,16 +1,18 @@
 # 💰 FinanSmart AI
 
 ## 💡 Sobre o Projeto
-O FinanSmart AI é um aplicativo de organização de finanças pessoais que utiliza inteligência artificial para ajudar usuários a controlar seus gastos e melhorar seus hábitos financeiros.
 
-A proposta é transformar dados financeiros em decisões inteligentes, oferecendo sugestões personalizadas e alertas em tempo real.
+O FinanSmart AI é um aplicativo de organização de finanças pessoais que utiliza inteligência artificial para ajudar usuários a controlar seus gastos de forma simples e inteligente.
+
+A proposta é transformar registros financeiros em decisões mais conscientes, oferecendo sugestões personalizadas, alertas e análises automáticas.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Controle de receitas e despesas
-- Classificação automática de gastos com IA
+- Registro de receitas e despesas
+- Interpretação de gastos por linguagem natural
+- Classificação automática com IA
 - Dashboard com visão geral financeira
 - Sugestões inteligentes de economia
 - Alertas de limite de gastos
@@ -19,28 +21,28 @@ A proposta é transformar dados financeiros em decisões inteligentes, oferecend
 
 ## 🧠 Prompt (PRD)
 
-Crie um aplicativo de organização de finanças pessoais com inteligência artificial.
+Crie um aplicativo de organização de finanças pessoais com inteligência artificial que funcione como um assistente financeiro pessoal.
 
-O app deve ter:
+O usuário poderá registrar gastos por meio de mensagens simples, como:
+“gastei 50 reais no mercado”.
 
-- Cadastro de receitas e despesas
-- Classificação automática de gastos usando IA
-- Dashboard com gráficos simples
-- Sugestões inteligentes de economia com base no comportamento do usuário
-- Alertas quando o usuário ultrapassar limites de gastos
-- Interface simples, moderna e intuitiva
+A IA deve:
 
-Objetivo:
-Ajudar usuários a terem mais controle financeiro e melhorar hábitos de consumo.
+- Interpretar linguagem natural
+- Classificar automaticamente os gastos
+- Gerar resumos financeiros
+- Sugerir economia personalizada
+- Alertar sobre excessos de gastos
 
-Diferencial:
-A IA deve atuar como um assistente financeiro pessoal.
+O aplicativo deve ter uma interface simples, moderna e intuitiva, focada em usuários iniciantes que desejam melhorar sua organização financeira.
 
 ---
 
 ## 📸 Demonstração
 
-*(adicione aqui prints do projeto ou da interação com IA)*
+![Exemplo do App](https://via.placeholder.com/300)
+
+*(Aqui você pode adicionar prints do Copilot, Lovable ou simulações do app)*
 
 ---
 
@@ -48,16 +50,24 @@ A IA deve atuar como um assistente financeiro pessoal.
 
 Durante o desenvolvimento deste projeto, aprendi:
 
-- Como estruturar um prompt claro para IA
-- A importância de organizar ideias antes de automatizar
-- Como utilizar ferramentas de IA para acelerar o desenvolvimento
-- Como transformar uma ideia em um projeto estruturado
+- A importância de estruturar um prompt claro para orientar a IA
+- Como decompor problemas antes de automatizá-los
+- O uso da IA como parceira no desenvolvimento de soluções
+- Como transformar uma ideia em um projeto organizado e documentado
 
 ---
 
 ## 🌟 Diferenciais
 
-- Uso de IA como assistente financeiro
-- Interface simples e intuitiva
-- Foco na experiência do usuário
-- Projeto com potencial de evolução
+- Uso de IA como assistente financeiro pessoal
+- Interação por linguagem natural
+- Foco em experiência do usuário
+- Estrutura pensada para evolução futura
+
+---
+
+## 🚀 Conclusão
+
+Este projeto demonstra como a Inteligência Artificial pode ser utilizada para simplificar tarefas do dia a dia, como o controle financeiro, tornando a experiência mais acessível e eficiente.
+
+Além disso, reforça o conceito de Vibe Coding, onde a comunicação clara com a IA é essencial para transformar ideias em soluções reais.
